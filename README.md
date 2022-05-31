@@ -1,2 +1,2 @@
-# onlline_shop
+# online_shop
 Online shopping app
